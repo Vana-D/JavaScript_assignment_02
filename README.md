@@ -1,4 +1,4 @@
-# Assignment 02
+# M3 Assignment 02
 
 ## Larger or Smaller? 
 
